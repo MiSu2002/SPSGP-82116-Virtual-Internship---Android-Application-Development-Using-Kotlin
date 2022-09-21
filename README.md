@@ -3,6 +3,8 @@ Virtual Internship - Android Application Development Using Kotlin
 
 A Grocery Android App that allows its users to create a list of items with their respective quantities and amounts in the app and helps the user to fetch all the needed items at once without forgetting!
 
+Demonstration Video Link: https://drive.google.com/file/d/16YD1Gn475ZjTi48ls-JOg2mH6hJkNKBn/view?usp=drivesdk
+
 The Logo used for the grocery app can be found in: app/src/main/res/drawable/app_icon.png
 ![app_icon](https://user-images.githubusercontent.com/89409581/191389146-522cd8be-111a-4eab-8c84-45a793cf2fa6.png)
 
