@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-merged_res-40:/drawable_app_icon.png.flat",
+        "source": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-main-42:/drawable/app_icon.png"
+    },
+    {
+        "merged": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-merged_res-40:/layout_activity_main.xml.flat",
+        "source": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-merged_res-40:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-main-42:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-merged_res-40:/drawable_ic_delete.xml.flat",
+        "source": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-main-42:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.sbappdeveloper.grocery.app-merged_res-40:/layout_activity_main.xml.flat",
+        "source": "com.sbappdeveloper.grocery.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-main-42:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-main-42:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-main-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-merged_res-40:/drawable_border.xml.flat",
+        "source": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-main-42:/drawable/border.xml"
+    },
+    {
+        "merged": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-merged_res-40:/drawable_custom_button_back.xml.flat",
+        "source": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-main-42:/drawable/custom_button_back.xml"
+    },
+    {
+        "merged": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-merged_res-40:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-main-42:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-merged_res-40:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-main-42:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-merged_res-40:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-main-42:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-merged_res-40:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-main-42:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-merged_res-40:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-main-42:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-merged_res-40:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-pngs-35:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-merged_res-40:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-main-42:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-merged_res-40:/layout_grocery_rv_item.xml.flat",
+        "source": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-main-42:/layout/grocery_rv_item.xml"
+    },
+    {
+        "merged": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-merged_res-40:/drawable_ic_add.xml.flat",
+        "source": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-main-42:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-merged_res-40:/layout_grocery_add_dialog.xml.flat",
+        "source": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-main-42:/layout/grocery_add_dialog.xml"
+    },
+    {
+        "merged": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-merged_res-40:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-main-42:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-merged_res-40:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-main-42:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-merged_res-40:/drawable_background.jpg.flat",
+        "source": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-main-42:/drawable/background.jpg"
+    },
+    {
+        "merged": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-merged_res-40:/xml_backup_rules.xml.flat",
+        "source": "/Users/soumitabasu/.gradle/daemon/7.3.3/com.sbappdeveloper.grocery.app-main-42:/xml/backup_rules.xml"
+    }
+]
